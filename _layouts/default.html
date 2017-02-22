@@ -17,7 +17,7 @@
 
   </head>
   <body>
-      <div id="header" class="fork">
+      <div id="header">
         <nav>
 	  <a href="/">Home</a> | 
           <a href="/about.html">About</a> | 
@@ -34,6 +34,13 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
           <hr>
+        <nav>
+	  <a href="/">Home</a> | 
+          <a href="/about.html">About</a> | 
+          <a href="/quotes.html">Quotes</a> | 
+          <a href="/links.html">Links</a> | 
+	  <a href="/blog">Blog</a> 
+        </nav>
         </div>
 
         {{ content }}
