@@ -122,3 +122,18 @@ Train for what happens most and you'll be able to handle most of what happens.
 Am I saying this because I want to prove how smart I am or am I saying this because it needs to be said?
 
 I ain't as good as I once was but I'm as good once as I ever was.
+
+In most admirable endeavors your ability to sustain suffering will determine your success. 
+-- Larry Lindenman
+
+I am not a product of my circumstances. I am a product of my decisions. 
+–- Stephen Covey
+
+Success fuels passion more than passion fuels success. 
+-- Scott Adams
+
+To learn who rules over you, simply find out who you are not allowed to criticize. 
+-- Voltaire
+
+If you get to engrossed and involved and concerned in regard to things over which you have no control, it will adversely affect the things over which you have control. 
+-- John Wooden
