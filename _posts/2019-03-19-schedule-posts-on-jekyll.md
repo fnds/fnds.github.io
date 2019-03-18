@@ -12,7 +12,7 @@ tags: jekyll github
 
         future: false
     
-    This changes causes Jekyll to ignore any posts with dates in the future
+    It causes Jekyll to ignore any posts with dates in the future.
 
 2. Create a post with the desired posting date
 
@@ -29,7 +29,7 @@ tags: jekyll github
 
     Check this article for details on how to set this up: 
     
-        - [How to Schedule Jekyll Posts on Github Pages](https://alxmjo.com/2017/05/30/how-to-schedule-posts-with-jekyll/)
+    [How to Schedule Jekyll Posts on Github Pages](https://alxmjo.com/2017/05/30/how-to-schedule-posts-with-jekyll/)
 
 This article was posted using the same scheduling solution. It works! :)
 
