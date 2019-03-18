@@ -3,6 +3,7 @@ description:
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-midnight
+future: false
 
 gems:
   - jekyll-mentions
