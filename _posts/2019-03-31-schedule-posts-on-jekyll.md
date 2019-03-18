@@ -1,3 +1,11 @@
+---
+layout: post
+title: How to schedule blog posts when using Jekyll with Github
+author: fnds
+categories: tools
+tags: jekyll github
+---
+
 # How to schedule blog posts when using Jekyll and Github
 
 1. Add this line to _config.yml
@@ -8,16 +16,27 @@
 
 2. Create a post with the desired posting date
 
-    2019-03-31-schedule-posts-on-jekyll.md
+    2019-03-19-schedule-posts-on-jekyll.md
     
 3. Schedule a task to force Gitgub to rebuild your site every night
 
-    Use your favorite scheduler running from another xomputer to execute this task every night at your chosen time:
+    Use your favorite scheduler to execute this command line every night at your chosen time:
+    
+        curl "https://api.github.com/repos/USERNAME/REPO/pages/builds" \
+        -X GET \
+        -H 'Authorization: token THE-TOKEN' \
+        -H "Accept: application/vnd.github.mister-fantastic-preview"
 
-This article is based on the excellent instructions I found here: https://shot511.github.io/2018-12-03-how-to-schedule-posts-with-jekyll/
-Please refer to that article if you need more details about how to set up the scheduler task.
+    Check this article for details on how to set this up: 
+    
+        - [How to Schedule Jekyll Posts on Github Pages](https://alxmjo.com/2017/05/30/how-to-schedule-posts-with-jekyll/)
 
 This article was posted using the same scheduling solution. It works! :)
 
-Thanks for reading.
+Thanks for reading.  
 --fnds
+
+## references
+
+- [How to schedule posts with Jekyll](https://shot511.github.io/2018-12-03-how-to-schedule-posts-with-jekyll/)
+- [How to Schedule Jekyll Posts on Github Pages](https://alxmjo.com/2017/05/30/how-to-schedule-posts-with-jekyll/)
