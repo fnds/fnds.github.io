@@ -1,3 +1,6 @@
+The way other people treat you is not a reflection of who you are, it's a reflection of who they are.  
+-- Dorothée Loorbach
+
 I Don't Have Enough Faith to Be an Atheist.  
 -- Norman L. Geisler
 
