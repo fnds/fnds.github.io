@@ -1,3 +1,6 @@
+I Don't Have Enough Faith to Be an Atheist.  
+-- Norman L. Geisler
+
 In my humdrum life, the daily battle hasn’t been good versus evil. It’s hardly so epic. Most days, my real battle is doing good versus doing nothing.  
 -- Deirdre Sullivan
 
