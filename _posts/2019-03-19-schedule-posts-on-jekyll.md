@@ -6,8 +6,6 @@ categories: tools
 tags: jekyll github
 ---
 
-# How to schedule blog posts when using Jekyll and Github
-
 1. Add this line to _config.yml
 
         future: false
