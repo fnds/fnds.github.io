@@ -1,3 +1,9 @@
+Without commitment we will never start. Without discipline and consistency we will never finish.  
+-- Denzel Washington
+
+Ease is a greater threat to progress than hardship.  
+-- Denzel Washington
+
 The way other people treat you is not a reflection of who you are, it's a reflection of who they are.  
 -- Dorothée Loorbach
 
