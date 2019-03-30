@@ -1,5 +1,8 @@
 ---
-categories: christianity
+layout: post
+title: Read your Bible!
+author: fnds
+categories: christian
 tags: bible
 ---
 
