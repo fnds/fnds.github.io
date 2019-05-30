@@ -1,7 +1,7 @@
-Don't practice what you do not want to become.
+Don't practice what you do not want to become.  
 -- Jordan Peterson
 
-You gotta be careful about what you say and what you do, because you build yourself that way.
+You gotta be careful about what you say and what you do, because you build yourself that way.  
 -- Jordan Peterson
 
 Without commitment we will never start. Without discipline and consistency we will never finish.  
