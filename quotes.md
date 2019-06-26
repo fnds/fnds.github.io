@@ -1,4 +1,4 @@
-A harmless man is not a good man... A good man is a very very dangerous man who has that under voluntary control.
+A harmless man is not a good man... A good man is a very very dangerous man who has that under voluntary control.  
 -- Jordan Peterson
 
 Don't practice what you do not want to become.  
