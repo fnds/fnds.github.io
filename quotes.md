@@ -1,3 +1,6 @@
+It's nice to have lifeguards, but it is better to know how to swim.  
+-- Anonymous
+
 A harmless man is not a good man... A good man is a very very dangerous man who has that under voluntary control.  
 -- Jordan Peterson
 
