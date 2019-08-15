@@ -1,3 +1,6 @@
+Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible.  
+-- St. Francis of Assisi.
+
 It's nice to have lifeguards, but it is better to know how to swim.  
 -- Anonymous
 
