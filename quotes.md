@@ -151,7 +151,7 @@ Train for what happens most and you'll be able to handle most of what happens.
 Am I saying this because I want to prove how smart I am or am I saying this because it needs to be said?  
 -- Anon
 
-I ain't as good as I once was but I'm as good once as I ever was.  
+I ain't as good as I once was but I can be as good once as I ever was.  
 -- Anon
 
 In most admirable endeavors your ability to sustain suffering will determine your success.  
@@ -166,5 +166,5 @@ Success fuels passion more than passion fuels success.
 To learn who rules over you, simply find out who you are not allowed to criticize.  
 -- Voltaire
 
-If you get to engrossed and involved and concerned in regard to things over which you have no control, it will adversely affect the things over which you have control.  
+If you get too engrossed and involved and concerned in regard to things over which you have no control, it will adversely affect the things over which you have control.  
 -- John Wooden
