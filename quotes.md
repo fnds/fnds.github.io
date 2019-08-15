@@ -151,8 +151,8 @@ Train for what happens most and you'll be able to handle most of what happens.
 Am I saying this because I want to prove how smart I am or am I saying this because it needs to be said?  
 -- Anon
 
-I ain't as good as I once was but I can be as good once as I ever was.  
--- Anon
+I ain't as good as I once was but I'm as good once as I ever was.  
+-- Toby Keith
 
 In most admirable endeavors your ability to sustain suffering will determine your success.  
 -- Larry Lindenman
