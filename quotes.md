@@ -1,3 +1,6 @@
+The greatest enemy of knowledge isn't ignorance, it is the illusion of knowledge.  
+-- Daniel J. Boorstin
+
 If you haven’t read hundreds of books, you are functionally illiterate, and you will be incompetent, because your personal experience alone aren’t broad enough to sustain you.  
 -- General James “Mad Dog” Mattis
 
