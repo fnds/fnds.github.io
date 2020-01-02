@@ -1,3 +1,6 @@
+The single biggest problem in communication is the illusion that it has taken place.  
+-- George Bernard Shaw
+
 The greatest enemy of knowledge isn't ignorance, it is the illusion of knowledge.  
 -- Daniel J. Boorstin
 
