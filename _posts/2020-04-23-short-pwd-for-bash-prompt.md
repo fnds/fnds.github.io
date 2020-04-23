@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to schedule blog posts when using Jekyll with Github
+title: Short pwd for bash prompt
 author: fnds
 categories: tools
 tags: bash
