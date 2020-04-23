@@ -1,3 +1,11 @@
+---
+layout: post
+title: How to schedule blog posts when using Jekyll with Github
+author: fnds
+categories: tools
+tags: bash
+---
+
 # Short pwd for bash prompt
 
 # tl;dr: Add this function to your .bashrc and use it to show only the current and the parent directory in the bash command prompt:
@@ -50,7 +58,7 @@ One solution for the dilema is to show both the parent and current dir in the pr
 It could use awk, sed, basename, dirname, etc., to the same effect, but it might cause some lag each time you display the prompt 
 depending on how much stuff you have on your PS1. For instance, I have a function on PS1 to display the git branch.
 
-This web page is an excellent reference on the subject: https://www.tldp.org/LDP/abs/html/string-manipulation.html
+This web page is an excellent reference on the subject: [https://www.tldp.org/LDP/abs/html/string-manipulation.html]
 
 Thanks for reading. I hope this article helps someone.
 
