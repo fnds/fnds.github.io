@@ -30,14 +30,14 @@ tags: bash
 
 # Why is it better?
 
-Bash PS1 prompt variable allows us to use \W to display the full directory path or \w to show only the name of the current directory. 
+Bash PS1 prompt variable allows us to use \W or \w to show the current directory. 
 
-\W can make the prompt become long and cumbersome when we are working with many directory levels. 
+\w could make the prompt become long and cumbersome when we are working with many directory levels. 
 
     $ export PS1='\w $ '
     /tmp/aaaaa/bbbbb/ccccc/ddddd/eeeee/fffff/ggggg/hhhhh $
 
-\w can cause confusion for lack of context. 
+\W might cause confusion for lack of context. 
 
     $ export PS1='\W $ '
     bin $ 
@@ -58,7 +58,7 @@ One solution for the dilema is to show both the parent and current dir in the pr
 It could use awk, sed, basename, dirname, etc., to the same effect, but it might cause some lag each time you display the prompt 
 depending on how much stuff you have on your PS1. For instance, I have a function on PS1 to display the git branch.
 
-This web page is an excellent reference on the subject: (https://www.tldp.org/LDP/abs/html/string-manipulation.html)
+This web page is an excellent reference on the subject: [https://www.tldp.org/LDP/abs/html/string-manipulation.html](https://www.tldp.org/LDP/abs/html/string-manipulation.html)
 
 Thanks for reading. I hope this article helps someone.
 
