@@ -8,7 +8,7 @@ tags: bash
 
 # Short pwd for bash prompt
 
-# tl;dr: Add this function to your .bashrc and use it to show only the current and the parent directory in the bash command prompt:
+## tl;dr: Add this function to your .bashrc and use it to show only the current and the parent directory in the bash command prompt:
 
     function short_pwd {
         cdir=${PWD##*/}
