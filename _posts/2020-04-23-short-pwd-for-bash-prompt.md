@@ -20,7 +20,7 @@ tags: bash
 
 # Example
 
-    $ export PS1="$(short_pwd) $ "
+    $ PS1="$(short_pwd) $ "
     ggggg/hhhhh $ pwd
     /tmp/aaaaa/bbbbb/ccccc/ddddd/eeeee/fffff/ggggg/hhhhh
     ggggg/hhhhh $ cd /usr/local/bin
@@ -32,12 +32,12 @@ Bash PS1 prompt variable allows us to use \W or \w to show the current directory
 
 \w could make the prompt become long and cumbersome when we are working with many directory levels. 
 
-    $ export PS1='\w $ '
+    $ PS1='\w $ '
     /tmp/aaaaa/bbbbb/ccccc/ddddd/eeeee/fffff/ggggg/hhhhh $
 
 \W might cause confusion for lack of context. 
 
-    $ export PS1='\W $ '
+    $ PS1='\W $ '
     bin $ 
     
 Where am I? /bin or /usr/bin? Neither!
@@ -47,7 +47,7 @@ Where am I? /bin or /usr/bin? Neither!
     
 One solution for the dilema is to show both the parent and current dir in the prompt:
 
-    $ export PS1='$(short_pwd) $ '
+    $ PS1='$(short_pwd) $ '
     /tmp $ cd /usr/local/bin
     local/bin $ cd /tmp/aaaaa/bbbbb/ccccc/ddddd/eeeee/fffff/ggggg/hhhhh
     ggggg/hhhhh $
