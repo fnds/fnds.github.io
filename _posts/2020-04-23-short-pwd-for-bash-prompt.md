@@ -48,7 +48,7 @@ One solution for the dilema is to show both the parent and current dir in the pr
     local/bin $ cd /tmp/aaaaa/bbbbb/ccccc/ddddd/eeeee/fffff/ggggg/hhhhh
     ggggg/hhhhh $
 
-Another downside of \W and \w to me is displaying "```~```" for the $HOME directory. This solution does not convert $HOME to "```~```".
+Another downside of \W and \w to me is displaying ```~``` for the $HOME directory. This solution does not convert $HOME to ```~```.
 
     $ PS1="\W $ "
     / $ cd
@@ -56,7 +56,7 @@ Another downside of \W and \w to me is displaying "```~```" for the $HOME direct
     ~ $ PS1="$(short_pwd) $ "
     /home/fnds $
 
-If you want to preserve the "```~```" behavior, just use the [original code on stackexchange.com](https://unix.stackexchange.com/questions/216953/show-only-current-and-parent-directory-in-bash-prompt). 
+If you want to preserve the ```~``` behavior, just use the [original code on stackexchange.com](https://unix.stackexchange.com/questions/216953/show-only-current-and-parent-directory-in-bash-prompt). 
 
 Check this web page for an excellent reference on bash builtin string manipulation: [https://www.tldp.org/LDP/abs/html/string-manipulation.html](https://www.tldp.org/LDP/abs/html/string-manipulation.html)
 
