@@ -1,3 +1,6 @@
+All of humanity’s problems stem from man’s inability to sit quietly in a room alone.  
+-- Blaise Pascal
+
 The single biggest problem in communication is the illusion that it has taken place.  
 -- George Bernard Shaw
 
