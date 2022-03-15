@@ -34,7 +34,7 @@ Add this line at the end on $HOME/.bashrc:
 
 Add this line to $HOME/.ssh/config
 
-    echo "AddKeysToAgent yes" >> $HOME/.ssh/config
+    AddKeysToAgent yes
     
 Open a new window on Cygwin. It will automatically start the ssh-agent. The keys will be cached when ssh is run for the first time.
 
